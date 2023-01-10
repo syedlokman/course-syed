@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://course.syedlokman.com/molecular-dynamics-simulation.html",
+            "url": "https://course.syedlokman.com/molecular-dynamics-simulation.html",
+            "title": "Molecular Dynamics Simulation",
+            "summary": "To start your first Molecular Dynamics Simulation, you can start with a simulation of Protein (e.g. Lysozyme) using Gromacs. Following&hellip;",
+            "content_html": "<p>To start your first Molecular Dynamics Simulation, you can start with a simulation of Protein (e.g. Lysozyme) using Gromacs. </p>\n<p>Following are the materials that might be helpful.</p>\n<p> </p>\n<p>1. The Basic Introduction to Molecular Dynamics Simulation:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"595\" height=\"485\" style=\"border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;\" src=\"//www.slideshare.net/slideshow/embed_code/key/rqWdHHhaLgDPwd\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"> </iframe></div>\n<div style=\"margin-bottom: 5px;\"><strong> <a href=\"//www.slideshare.net/SyedLokman/the-basic-of-molecular-dynamics-simulation\" title=\"The Basic of Molecular Dynamics Simulation\" target=\"_blank\" rel=\"noopener\">The Basic of Molecular Dynamics Simulation</a> </strong> from <strong><a href=\"//www.slideshare.net/SyedLokman\" target=\"_blank\" rel=\"noopener\">Syed Lokman</a></strong></div>\n<p> </p>\n<p>2. Prepation of files for Molecular Dynamics Simulation using Charmm-GUI</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"595\" height=\"485\" style=\"border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;\" src=\"//www.slideshare.net/slideshow/embed_code/key/4OvH22BzthUoNS\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"> </iframe></div>\n<div style=\"margin-bottom: 5px;\"><strong> <a href=\"//www.slideshare.net/SyedLokman/md-preparation-charmmgui\" title=\"MD Preparation: Charmm-GUI\" target=\"_blank\" rel=\"noopener\">MD Preparation: Charmm-GUI</a> </strong> from <strong><a href=\"//www.slideshare.net/SyedLokman\" target=\"_blank\" rel=\"noopener\">Syed Lokman</a></strong></div>\n<p> </p>\n<p>3. Performing Molecular Dynamics Simulation of a Protein using Gromacs:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"595\" height=\"485\" style=\"border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;\" src=\"//www.slideshare.net/slideshow/embed_code/key/3PP5EouG8i5hVN\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"> </iframe></div>\n<div style=\"margin-bottom: 5px;\"><strong> <a href=\"//www.slideshare.net/SyedLokman/gromacs-molecular-dynamics-simulation\" title=\"Gromacs - Molecular Dynamics Simulation\" target=\"_blank\" rel=\"noopener\">Gromacs - Molecular Dynamics Simulation</a> </strong> from <strong><a href=\"//www.slideshare.net/SyedLokman\" target=\"_blank\" rel=\"noopener\">Syed Lokman</a></strong></div>",
+            "author": {
+                "name": "Syed Lokman"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-10T09:14:06+06:00",
+            "date_modified": "2023-01-10T09:15:11+06:00"
+        },
+        {
             "id": "https://course.syedlokman.com/introduction-to-bioinformatics.html",
             "url": "https://course.syedlokman.com/introduction-to-bioinformatics.html",
             "title": "Introduction to Bioinformatics",
