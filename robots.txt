@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://course.syedlokman.com/sitemap.xml
